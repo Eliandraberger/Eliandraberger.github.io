@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: rgb(191, 114, 214);
+    font-family: "Dosis", sans-serif;
+    padding:0 50px;
+}
+
+header{
+
+   background-color: rgb(76, 32, 107);
+   padding: 60px;
+}
+
+.links{
+    color: rgb(89, 6, 241);/*color do texto*/
+    font-size:20px;/*tamanho do texto*/
+    text-decoration:none;/*retirar a sublinha*/
+    background-color:rgb(4, 4, 4);/*espaço em torno*/
+    padding:15px 25px; 
+    border-radius:30px;
+
+}
+
+
+
+h1{
+     
+    color: rgb(205, 147, 255);
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
